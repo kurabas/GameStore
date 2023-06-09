@@ -1,0 +1,12 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.nonamer777.madlevel5task2.com.example.madlevel5task2.ui.MainActivity">
+    <item
+        android:id="@+id/btn_clear_backlog"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/btn_label_clear_backlog"
+        app:showAsAction="ifRoom"
+        android:iconTint="#FFF" />
+</menu>

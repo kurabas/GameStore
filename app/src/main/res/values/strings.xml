@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MadLevel5task2</string>
+    <string name="fragment_title_backlog">Game Backlog</string>
+    <string name="fragment_title_add_game">Add Game</string>
+
+    <string name="fragment_label_backlog">backlog fragment</string>
+    <string name="fragment_label_add_game">add game fragment</string>
+
+    <string name="btn_description_add_game">add game</string>
+    <string name="btn_description_save_game">save game</string>
+
+    <string name="input_placeholder_year">Year</string>
+    <string name="input_placeholder_month">Month</string>
+    <string name="input_placeholder_day_of_the_month">Day</string>
+    <string name="input_placeholder_game_platform">Platform</string>
+    <string name="input_placeholder_game_title">Title</string>
+    <string name="btn_label_clear_backlog">Clear Backlog</string>
+    <string name="label_game_release_date" />
+    <string name="label_game_platform" />
+    <string name="label_game_title" />
+    <string name="label_undo">UNDO</string>
+</resources>
